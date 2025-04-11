@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="savr_logo_description">Savr logo</string>
+    <string name="savr_app_name">SAVR</string>
+
+    <!-- General Menu name -->
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+
+    <!-- All Categories Menu name -->
+    <string name="expand_all">Expand All</string>
+    <string name="Budget">Budget</string>
+
+</resources>
